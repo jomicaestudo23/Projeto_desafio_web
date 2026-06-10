@@ -1,15 +1,36 @@
 body {  
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 236, 232);
 
 
 }
 h1 {
     color: navy;
-    }
- h2 {
+}
+h2 {
         color: green;
 
 
+}
+#div-form {
+    background-color: rgb(201, 201, 201);
+    width: 100% ;
+    max-width: 450px ;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 24px rgba(0,  0, 0, 0.1) ;
+
+}
+.input-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+
+    }
+.input-group label {
+    margin-bottom: 8px;
+    font-size: 0.95rex;
+    font-weight: 500;
+    color: black;
 }
