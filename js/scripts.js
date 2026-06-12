@@ -74,9 +74,9 @@ console.log (`RESTO DA DIVISÃO`, num3 % 3)
 
 
 */
-console.log(`Teste de relacionais`, 10 == 5)
-console.log(`Teste relacionais`, 10 != 5)
-console.log(`TESTE DE RELACIONAIS`, 10 > 5)
+console.log (`Teste de relacionais`, 10 == 5)
+console.log (`Teste relacionais`, 10 != 5)
+console.log (`TESTE DE RELACIONAIS`, 10 > 5)
 console.log (`TESTE RELACIONAIS`, 10 >= 5)
 console.log (`TESTE DE RELACIONAIS`, 10 <= 5)
 
